@@ -48,10 +48,11 @@ input[type="checkbox"] {
 
 p {
   margin: 0;
+  color: #00204a;
   padding: 20px;
   font-size: 20px;
   font-weight: 200;
-  color: #00204a;
+  
 }
 
 form.item {
